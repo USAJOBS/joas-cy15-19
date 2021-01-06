@@ -4,15 +4,14 @@ This repository contains all archived JOAs that were posted to [USAJOBS.gov](htt
 
 Contained within the zip archives are XML, compliant to the [HR-XML standard](https://hropenstandards.org/).
 
-
 Steps:
 
 Get data off the local machine
--Why?
+Why?
 Re-archiving lots of small XML files will lock up your processor
 You might also have storage issues
 Need the right software to re-archive
--How:
+How:
 Off network file transfer to AWS, Google Drive, etc.
 
 Once the data is in a different environment, it needs to be extracted
